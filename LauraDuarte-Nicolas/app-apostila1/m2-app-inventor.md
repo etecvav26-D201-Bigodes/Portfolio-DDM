@@ -47,5 +47,15 @@ O objetivo do segundo projeto é que o usuário pode colorir a imagem que está 
 ### Print das telas dos Blocos
 ![design dos blocos](imagens/Projeto2-blocos.png)
 
+---
+
+# Projeto 3 – Terceiro Aplicativo (pg. 56)
+
+### Descrição
+
+ No projeto 3 o objetivo é que quando a imagem for clicada irá emitir um som, porém no meu projeto diferente da apostila, foi colocada a imagem de um cachorro cujo a imagem dele é relacionada com a música tocada quando clicada.
+
+ 
+
 
 
