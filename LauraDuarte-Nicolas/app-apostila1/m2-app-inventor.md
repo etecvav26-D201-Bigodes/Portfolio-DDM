@@ -31,4 +31,8 @@ Nicolas Saraiva Batista
 
 ---
 
+# Projeto 2 – Segundo Aplicativo (pg. 46)
 
+### Descrição
+
+O objetivo do segundo projeto é que o usuário pode colorir a imagem que está na tela apenas selecionando as 4 cores que estão acima da foto. Foram feitas alterações na imagem selecionada, foi substituida por um quadro branco, para o intuito ser colorir o quadro.
