@@ -23,3 +23,7 @@ Nicolas Saraiva Batista
 ### Print das telas do Design
 ![design no MIT](imagens/Projeto1-design.png)
 
+### Design no celular
+![design no celular](prints/print-projeto1.jpeg)
+
+
