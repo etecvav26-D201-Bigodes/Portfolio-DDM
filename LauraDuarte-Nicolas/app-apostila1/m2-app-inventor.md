@@ -36,3 +36,7 @@ Nicolas Saraiva Batista
 ### Descrição
 
 O objetivo do segundo projeto é que o usuário pode colorir a imagem que está na tela apenas selecionando as 4 cores que estão acima da foto. Foram feitas alterações na imagem selecionada, foi substituida por um quadro branco, para o intuito ser colorir o quadro.
+
+### Print das telas do Design
+
+![Design no MIT](imagens/Projeto2-design.png)
