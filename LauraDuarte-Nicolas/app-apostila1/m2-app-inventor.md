@@ -19,3 +19,7 @@ Nicolas Saraiva Batista
 ### Descrição
 
  O objetivo do aplicativo é quando um botão é clicado mostrar a imagem do planeta Terra e uma pequena legenda, e quando clicar no botão "Limpar", a iamgem e a legenda sumirá novamente. A diferença é que na apostila apenas o texto aparece e some, já no nosso projeto houve pequena alteração na imagem utilizada e na legenda, também ambos os elementos somem.
+
+### Print das telas do Design
+![design no MIT](Projeto1-design.png)
+
