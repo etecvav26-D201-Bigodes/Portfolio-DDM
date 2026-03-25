@@ -26,4 +26,9 @@ Nicolas Saraiva Batista
 ### Design no celular
 ![design no celular](prints/print-projeto1.jpeg)
 
+### Print das telas dos Blocos
+![design dos blocos](imagens/projeto1-blocos.png)
+
+---
+
 
