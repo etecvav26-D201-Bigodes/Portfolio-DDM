@@ -18,7 +18,8 @@ Nicolas Saraiva Batista
 
 ### Descrição
 
- O objetivo do aplicativo é quando um botão é clicado mostrar a imagem do planeta Terra e uma pequena legenda, e quando clicar no botão "Limpar", a iamgem e a legenda sumirá novamente. A diferença é que na apostila apenas o texto aparece e some, já no nosso projeto houve pequena alteração na imagem utilizada e na legenda, também ambos os elementos somem.
+ O objetivo do aplicativo é, ao clicar em um botão, exibir a imagem do planeta Terra acompanhada de uma pequena legenda. Ao clicar no botão “Limpar”, tanto a imagem quanto a legenda desaparecem da tela.
+ A principal diferença em relação ao exemplo apresentado na apostila é que, apenas o texto é exibido e ocultado. Já no nosso projeto, houve uma pequena modificação: utilizamos uma imagem diferente e adicionamos uma legenda, sendo que ambos os elementos são exibidos e removidos juntos.
 
 ### Print das telas do Design
 ![design no MIT](imagens/Projeto1-design.png)
@@ -35,7 +36,8 @@ Nicolas Saraiva Batista
 
 ### Descrição
 
-O objetivo do segundo projeto é que o usuário pode colorir a imagem que está na tela apenas selecionando as 4 cores que estão acima da foto. Foram feitas alterações na imagem selecionada, foi substituida por um quadro branco, para o intuito ser colorir o quadro.
+O objetivo do segundo projeto é permitir que o usuário interaja com a imagem exibida na tela por meio da aplicação de cores. Para isso, o sistema disponibiliza quatro opções de cores posicionadas acima da imagem, possibilitando que o usuário selecione uma delas para realizar a coloração.
+Cabe destacar que foram realizadas adaptações em relação à proposta original, especialmente no que se refere à imagem utilizada. A imagem inicial foi substituída por um quadro em branco, com a finalidade de tornar a atividade mais adequada ao propósito de colorir, proporcionando maior liberdade de interação ao usuário.
 
 ### Print das telas do Design
 
@@ -53,8 +55,8 @@ O objetivo do segundo projeto é que o usuário pode colorir a imagem que está 
 
 ### Descrição
 
- No projeto 3 o objetivo é que quando a imagem for clicada irá emitir um som, porém no meu projeto diferente da apostila, foi colocada a imagem de um cachorro cujo a imagem dele é relacionada com a música tocada quando clicada.
-
+ No terceiro projeto, o objetivo é fazer com que, ao clicar na imagem exibida, seja reproduzido um som associado a essa ação.
+Entretanto, em relação ao modelo apresentado na apostila, foram realizadas algumas adaptações. No presente projeto, foi utilizada a imagem de um cachorro, estabelecendo uma relação direta entre o elemento visual e o áudio reproduzido, de modo a tornar a interação mais intuitiva.
 ### Print das telas do Design
 
 ![Design no MIT](imagens/Projeto3-design.png)
