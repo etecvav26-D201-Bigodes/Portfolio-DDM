@@ -44,4 +44,8 @@ O objetivo do segundo projeto é que o usuário pode colorir a imagem que está 
 ### Design no celular
 ![design no celular](prints/print-projeto2.jpeg)
 
+### Print das telas dos Blocos
+![design dos blocos](imagens/Projeto2-blocos.png)
+
+
 
