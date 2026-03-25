@@ -55,7 +55,10 @@ O objetivo do segundo projeto é que o usuário pode colorir a imagem que está 
 
  No projeto 3 o objetivo é que quando a imagem for clicada irá emitir um som, porém no meu projeto diferente da apostila, foi colocada a imagem de um cachorro cujo a imagem dele é relacionada com a música tocada quando clicada.
 
- 
+### Print das telas do Design
+
+![Design no MIT](imagens/Projeto3-design.png)
+
 
 
 
