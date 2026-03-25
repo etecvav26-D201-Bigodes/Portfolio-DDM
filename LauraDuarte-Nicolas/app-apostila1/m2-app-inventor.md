@@ -59,6 +59,12 @@ O objetivo do segundo projeto é que o usuário pode colorir a imagem que está 
 
 ![Design no MIT](imagens/Projeto3-design.png)
 
+### Design no celular
+
+![design no celular](prints/print-projeto3.jpeg)
+
+
+
 
 
 
