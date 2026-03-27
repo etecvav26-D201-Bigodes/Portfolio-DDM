@@ -78,6 +78,11 @@ O objetivo deste aplicativo é demonstrar a possível interação com a câmera 
 
 ![Design no MIT](imagens/projeto4.design.png)
 
+### Design no celular
+
+![design no celular](prints/print-projeto4.jpeg)
+
+
 
 
 
