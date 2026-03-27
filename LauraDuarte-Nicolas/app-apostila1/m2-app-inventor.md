@@ -66,7 +66,10 @@ Entretanto, em relação ao modelo apresentado na apostila, foram realizadas alg
 ![design no celular](prints/print-projeto3.jpeg)
 
 ### Print das telas dos Blocos
+
 ![design dos blocos](imagens/Projeto3-blocos.png)
+
+---
 
 # Projeto 4 – Quarto Aplicativo (pg. 64)
 
@@ -83,7 +86,10 @@ O objetivo deste aplicativo é demonstrar a possível interação com a câmera 
 ![design no celular](prints/print-projeto4.jpeg)
 
 ### Print das telas dos Blocos
+
 ![design dos blocos](imagens/projeto4.blocos.png)
+
+---
 
 # Projeto 5 – Quinto Aplicativo (pg. 69)
 
@@ -109,6 +115,8 @@ O objetivo deste aplicativo é demonstrar a interação entre múltiplas telas d
 ![design dos blocos](imagens/projeto5-2.blocos.png)
 ![design dos blocos](imagens/projeto5-3.blocos.png)
 
+---
+
 # Projeto 6 – Sexto Aplicativo (pg. 82)
 
 ### Descrição
@@ -126,6 +134,8 @@ O objetivo deste aplicativo é demonstrar a interação com caixas de texto, evi
 ### Print das telas dos Blocos
 
 ![design dos blocos](imagens/projeto6.blocos.png)
+
+---
 
 
 
