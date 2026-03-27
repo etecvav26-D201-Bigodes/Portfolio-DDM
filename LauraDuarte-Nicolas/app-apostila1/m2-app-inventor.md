@@ -82,6 +82,11 @@ O objetivo deste aplicativo é demonstrar a possível interação com a câmera 
 
 ![design no celular](prints/print-projeto4.jpeg)
 
+### Print das telas dos Blocos
+![design dos blocos](imagens/projeto4.blocos.png)
+
+
+
 
 
 
