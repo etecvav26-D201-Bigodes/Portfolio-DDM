@@ -115,6 +115,10 @@ O objetivo deste aplicativo é demonstrar a interação entre múltiplas telas d
 
 O objetivo deste aplicativo é demonstrar a interação com caixas de texto, evidenciando a entrada e exibição de dados fornecidos pelo usuário. Neste projeto, é apresentada na tela uma caixa de texto clicável e, logo abaixo, um botão; ao selecionar a caixa de texto, o teclado do dispositivo é exibido, permitindo a digitação. Após inserir o conteúdo desejado, ao pressionar o botão, o texto digitado é exibido na tela em formato de mensagem, seguindo o padrão “Olá! (texto digitado)”. O desenvolvimento do projeto seguiu exatamente o modelo apresentado na apostila, sem a realização de alterações.
 
+### Print das telas do Design
+
+![Design no MIT](imagens/projeto6.design.png)
+
 
 
 
