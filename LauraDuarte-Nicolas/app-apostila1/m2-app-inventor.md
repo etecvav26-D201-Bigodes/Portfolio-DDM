@@ -97,6 +97,13 @@ O objetivo deste aplicativo é demonstrar a interação entre múltiplas telas d
 ![Design no MIT](imagens/projeto5-2.design.png)
 ![Design no MIT](imagens/projeto5-3.design.png)
 
+### Design no celular
+
+![design no celular](prints/print-projeto5_1.jpeg)
+![design no celular](prints/print-projeto5_2.jpeg)
+![design no celular](prints/print-projeto5_3.jpeg)
+
+
 
 
 
