@@ -123,6 +123,10 @@ O objetivo deste aplicativo é demonstrar a interação com caixas de texto, evi
 
 ![design no celular](prints/print-projeto6.jpeg)
 
+### Print das telas dos Blocos
+
+![design dos blocos](imagens/projeto6.blocos.png)
+
 
 
 
