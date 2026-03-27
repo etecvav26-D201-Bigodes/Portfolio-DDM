@@ -91,6 +91,12 @@ O objetivo deste aplicativo é demonstrar a possível interação com a câmera 
 
 O objetivo deste aplicativo é demonstrar a interação entre múltiplas telas dentro de uma mesma aplicação, evidenciando o processo de navegação entre diferentes interfaces. Neste projeto, são apresentados dois botões na tela inicial: um direciona para a Tela 1 e o outro para a Tela 2. Ao selecionar o primeiro, o usuário é redirecionado para uma nova tela com cor de fundo distinta, que também contém um botão para retornar à tela inicial. Já ao clicar no segundo botão, o usuário é levado a outra tela, na qual o plano de fundo é composto por uma imagem de um cachorro filhote, com o intuito de ilustrar visualmente a mudança de tela. Em relação ao modelo apresentado na apostila, as principais diferenças estão nas cores e nas imagens utilizadas durante o desenvolvimento do aplicativo.
 
+### Print das telas do Design
+
+![Design no MIT](imagens/projeto5-1.design.png)
+![Design no MIT](imagens/projeto5-2.design.png)
+![Design no MIT](imagens/projeto5-3.design.png)
+
 
 
 
