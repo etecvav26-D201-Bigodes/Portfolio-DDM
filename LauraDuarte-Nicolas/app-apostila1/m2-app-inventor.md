@@ -74,6 +74,10 @@ Entretanto, em relação ao modelo apresentado na apostila, foram realizadas alg
 
 O objetivo deste aplicativo é demonstrar a possível interação com a câmera do dispositivo, bem como a integração de imagens capturadas diretamente na interface do aplicativo. Neste projeto, é apresentado um botão com o texto “Tirar Foto!”, que, ao ser acionado, solicita permissão para acessar a câmera do dispositivo; após a autorização do usuário, a câmera é aberta, permitindo a captura de uma imagem e, depois de tirada e confirmada, a foto passa a ser exibida na tela do aplicativo. Em relação ao modelo apresentado na apostila, foram realizadas algumas adaptações, como a exibição da imagem capturada e a remoção do botão de fechamento, por ser considerado um recurso desnecessário para a proposta desta aplicação.
 
+### Print das telas do Design
+
+![Design no MIT](imagens/projeto4.design.png)
+
 
 
 
