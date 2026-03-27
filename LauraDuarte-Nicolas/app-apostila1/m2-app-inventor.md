@@ -119,6 +119,12 @@ O objetivo deste aplicativo é demonstrar a interação com caixas de texto, evi
 
 ![Design no MIT](imagens/projeto6.design.png)
 
+### Design no celular
+
+![design no celular](prints/print-projeto6.jpeg)
+
+
+
 
 
 
