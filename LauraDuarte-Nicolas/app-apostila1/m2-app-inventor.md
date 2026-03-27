@@ -103,6 +103,11 @@ O objetivo deste aplicativo é demonstrar a interação entre múltiplas telas d
 ![design no celular](prints/print-projeto5_2.jpeg)
 ![design no celular](prints/print-projeto5_3.jpeg)
 
+### Print das telas dos Blocos
+
+![design dos blocos](imagens/projeto5-1.blocos.png)
+![design dos blocos](imagens/projeto5-2.blocos.png)
+![design dos blocos](imagens/projeto5-3.blocos.png)
 
 
 
