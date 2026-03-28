@@ -25,10 +25,10 @@ Descrever:
 - o que foi **modificado ou melhorado** em relação ao exemplo da apostila
 
 ### Print das telas do Design
-![design no MIT](c:\Users\pedro\AppData\Local\Packages\MicrosoftWindows.Client.Core_cw5n1h2txyewy\TempState\ScreenClip\{421F9AC2-B7BD-4E58-AC09-E6364DFF126F}.png)
+![design no MIT](print-design-projeto1.png)
 
 ### Print do design no celular
-![design no celular](c:\Users\pedro\Downloads\WhatsApp Image 2026-03-27 at 22.11.35.jpeg)
+![design no celular]()
 
 ### Print das telas dos Blocos
 ![Blocos](c:\Users\pedro\AppData\Local\Packages\MicrosoftWindows.Client.Core_cw5n1h2txyewy\TempState\ScreenClip\{D37C4040-03E0-4628-897A-B8190C77FCE1}.png)
