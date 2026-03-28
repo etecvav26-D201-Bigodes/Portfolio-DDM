@@ -18,17 +18,20 @@ Pedro Henrique Nascimento Rodrigues
 # Projeto 1 – Primeiro Aplicativo (pg. 27)
 
 ### Descrição
-Descrever:
 
+Descrever:
 - objetivo do aplicativo
 - como ele funciona
 - o que foi **modificado ou melhorado** em relação ao exemplo da apostila
 
 ### Print das telas do Design
-Inserir imagens do **Design do aplicativo**.
+![design no MIT](c:\Users\pedro\AppData\Local\Packages\MicrosoftWindows.Client.Core_cw5n1h2txyewy\TempState\ScreenClip\{421F9AC2-B7BD-4E58-AC09-E6364DFF126F}.png)
+
+### Print do design no celular
+![design no celular](c:\Users\pedro\Downloads\WhatsApp Image 2026-03-27 at 22.11.35.jpeg)
 
 ### Print das telas dos Blocos
-Inserir imagens dos **blocos de programação**.
+![Blocos](c:\Users\pedro\AppData\Local\Packages\MicrosoftWindows.Client.Core_cw5n1h2txyewy\TempState\ScreenClip\{D37C4040-03E0-4628-897A-B8190C77FCE1}.png)
 
 ---
 
@@ -42,9 +45,13 @@ Descrever:
 - alterações feitas em relação à apostila
 
 ### Print das telas do Design
+![design no MIT]()
+
+### Print do design no celular
+![design no celular]()
 
 ### Print das telas dos Blocos
-
+![Blocos]()
 ---
 
 # Projeto 3 – Terceiro Aplicativo (pg. 56)
@@ -53,9 +60,13 @@ Descrever:
 Descrever objetivo, funcionamento e modificações realizadas.
 
 ### Print das telas do Design
+![design no MIT]()
+
+### Print do design no celular
+![design no celular]()
 
 ### Print das telas dos Blocos
-
+![Blocos]()
 ---
 
 # Projeto 4 – Quarto Aplicativo (pg. 64)
@@ -64,9 +75,13 @@ Descrever objetivo, funcionamento e modificações realizadas.
 Descrever objetivo, funcionamento e modificações realizadas.
 
 ### Print das telas do Design
+![design no MIT]()
+
+### Print do design no celular
+![design no celular]()
 
 ### Print das telas dos Blocos
-
+![Blocos]()
 ---
 
 # Projeto 5 – Quinto Aplicativo (pg. 69)
@@ -75,9 +90,13 @@ Descrever objetivo, funcionamento e modificações realizadas.
 Descrever objetivo, funcionamento e modificações realizadas.
 
 ### Print das telas do Design
+![design no MIT]()
+
+### Print do design no celular
+![design no celular]()
 
 ### Print das telas dos Blocos
-
+![Blocos]()
 ---
 
 # Projeto 6 – Sexto Aplicativo (pg. 82)
@@ -86,7 +105,11 @@ Descrever objetivo, funcionamento e modificações realizadas.
 Descrever objetivo, funcionamento e modificações realizadas.
 
 ### Print das telas do Design
+![design no MIT]()
+
+### Print do design no celular
+![design no celular]()
 
 ### Print das telas dos Blocos
-
+![Blocos]()
 ---
