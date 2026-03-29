@@ -37,5 +37,10 @@ O funcionamento do aplicativo é bem simples, o usuário digita a data da prova 
 
 ---
 
+## Print das telas dos Blocos
 
+[!Blocos](imagens/blocos-screen1.png)
+[!Blocos2](imagens/blocos-screen2.png)
+
+---
 
