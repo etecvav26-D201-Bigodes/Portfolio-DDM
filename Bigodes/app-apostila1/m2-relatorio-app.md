@@ -32,15 +32,17 @@ O funcionamento do aplicativo é bem simples, o usuário digita a data da prova 
 
 ## Print das telas do Design
 
-[!Design](imagens/design-screen1.png)
-[!Design2](imagens/design-screen2.png)
+![Design](imagens/design-screen1.png)
+
+![Design2](imagens/design-screen2.png)
 
 ---
 
 ## Print das telas dos Blocos
 
-[!Blocos](imagens/blocos-screen1.png)
-[!Blocos2](imagens/blocos-screen2.png)
+![Blocos](imagens/blocos-screen1.png)
+
+![Blocos2](imagens/blocos-screen2.png)
 
 ---
 
