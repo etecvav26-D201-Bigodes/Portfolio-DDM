@@ -22,13 +22,13 @@ Nicolas Saraiva Batista
 
  
 ### Print das telas do Design
-![design no MIT](imagens/)
+![design no MIT](imagens/design-web.png)
 
 ### Design no celular
 ![design no celular](prints/)
 
 ### Print das telas dos Blocos
-![design dos blocos](imagens/)
+![design dos blocos](imagens/blocos-web.png)
 
 ---
 
@@ -40,13 +40,13 @@ Nicolas Saraiva Batista
 
 ### Print das telas do Design
 
-![Design no MIT](imagens/)
+![Design no MIT](imagens/design-correio.png)
 
 ### Design no celular
 ![design no celular](prints/)
 
 ### Print das telas dos Blocos
-![design dos blocos](imagens/)
+![design dos blocos](imagens/blocos-correio.png)
 
 ---
 
