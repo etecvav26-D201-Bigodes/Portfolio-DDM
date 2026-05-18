@@ -53,12 +53,12 @@ O objetivo deste aplicativo é facilitar o envio de e-mails aos professores da E
 
  O aplicativo é composto por uma imagem da escola EtecVAV e um botão que permite visualizar a localização da instituição de forma rápida e prática. O app tem como principal objetivo auxiliar pessoas que ainda não conhecem onde a escola está localizada, facilitando o acesso ao endereço por meio do celular.
 
-![Design no MIT](imagens/)
+![Design no MIT](imagens/design-map.png)
 
 
 ### Print das telas dos Blocos
 
-![design dos blocos](imagens/)
+![design dos blocos](imagens/blocos-map.png)
 
 ---
 
@@ -70,10 +70,10 @@ O objetivo deste aplicativo é facilitar o contato telefônico com a escola para
 
 ### Print das telas do Design
 
-![Design no MIT](imagens/)
+![Design no MIT](imagens/design-tel.png)
 
 ### Print das telas dos Blocos
 
-![design dos blocos](imagens/)
+![design dos blocos](imagens/blocos-tel.png)
 
 ---
